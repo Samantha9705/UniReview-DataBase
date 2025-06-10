@@ -21,7 +21,7 @@ This repository contains the SQL scripts and database schema used by **UniReview
 ├── schema.sql       # Script con la estructura (tablas, claves, relaciones)
 ├── data.sql         # Datos de prueba opcionales (insert)
 └── diagram.png      # (Opcional) Diagrama ER o relacional
-
+```
 ---
 
 🔑 Tablas principales | Main Tables
@@ -34,7 +34,7 @@ carreras — Carreras universitarias disponibles
 reseñas — Opiniones y valoraciones de los usuarios
 
 universidades — Instituciones asociadas a las carreras
-```
+
 ---
 
 ⚠️ Notas
