@@ -34,7 +34,7 @@ carreras — Carreras universitarias disponibles
 reseñas — Opiniones y valoraciones de los usuarios
 
 universidades — Instituciones asociadas a las carreras
-
+```
 ---
 
 ⚠️ Notas
